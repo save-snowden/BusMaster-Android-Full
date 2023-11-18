@@ -61,8 +61,12 @@ The Bus Master app is designed to provide users with detailed information about 
 
 - **User-Friendly Interface**: The app features a clean and intuitive user interface, making it easy for users to access information and provide feedback.
 
-- **Contacts**: Chamod Wijetunga && Shanaka Hasaranga Edirisinghe
+## Authors
 
+- Chamod Wijetunga
+- Shanaka Hasaranga Edirisinghe
+
+All Rights Reserved.
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
