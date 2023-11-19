@@ -53,6 +53,8 @@ The Bus Master app is designed to provide users with detailed information about 
 
 - **QR Code Scanning**: Users can scan QR codes associated with buses to retrieve real-time information about the bus and its journey.
 
+- **Astimated Arrival Time Prediction**: Gets the predicted time to the destination using a ML model hosted in azure.
+
 - **Rating System**: After completing a bus ride, users can rate both the driver and conductor on a scale of 1 to 5 stars. Additionally, users have the option to provide an overall experience feedback.
 
 - **Feedback Analysis**: The app leverages a machine learning model to analyze the user's feedback. The analysis includes predictions about the ride quality, potential warnings, and other relevant information.
