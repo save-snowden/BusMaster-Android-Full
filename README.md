@@ -2,7 +2,7 @@
 
 The Bus Master app is a Flutter-based mobile application designed to enhance the bus commuting experience. With the ability to scan QR codes associated with buses, users can access real-time information about their journey, rate the driver and conductor, and provide valuable feedback. Leveraging machine learning, the app analyzes user feedback to provide predictions about ride quality, potential warnings, and additional insights. The intuitive user interface ensures a seamless experience, making bus travel more informative and user-friendly.
 
-## Administrator Dashbord - https://github.com/shanakaHasa/BusMaster-Admin
+### Administrator Dashbord - https://github.com/shanakaHasa/BusMaster-Admin
 
 ## Getting Started
 
